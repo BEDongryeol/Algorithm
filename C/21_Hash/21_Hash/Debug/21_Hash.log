@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\21_Hash\21_Hash\main.c(44,19): warning C4133: '=': 'Bucket *'과(와) 'Bucket *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\21_Hash\21_Hash\main.c(60,27): warning C4133: '=': 'Bucket *'과(와) 'Bucket *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\21_Hash\21_Hash\main.c(72,20): warning C4133: '=': 'Bucket *'과(와) 'Bucket *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\21_Hash\21_Hash\main.c(81,16): warning C4133: '함수': 'Bucket **'과(와) 'Student **' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\21_Hash\21_Hash\main.c(92,22): warning C4133: '함수': 'Bucket **'과(와) 'Student **' 사이의 형식이 호환되지 않습니다.
+  21_Hash.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\21_Hash\Debug\21_Hash.exe

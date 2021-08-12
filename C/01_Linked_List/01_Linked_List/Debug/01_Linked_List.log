@@ -1,0 +1,8 @@
+﻿  oneway.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\01_Linked_List\oneway.c(16,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\01_Linked_List\oneway.c(20,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\01_Linked_List\oneway.c(26,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\01_Linked_List\oneway.c(28,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\01_Linked_List\oneway.c(38,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\01_Linked_List\oneway.c(35,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  01_Linked_List.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\01_Linked_List\Debug\01_Linked_List.exe

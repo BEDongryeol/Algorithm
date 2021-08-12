@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(16,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(18,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(21,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(22,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(23,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(24,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(20,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(32,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(28,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(31,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(40,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(37,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(47,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(48,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(49,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\02_Linked_List_bothways\main.c(50,19): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  02_Linked_List_bothways.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\02_Linked_List_bothways\Debug\02_Linked_List_bothways.exe

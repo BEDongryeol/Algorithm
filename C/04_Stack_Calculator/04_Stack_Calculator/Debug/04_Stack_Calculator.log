@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\04_Stack_Calculator\04_Stack_Calculator\main.c(101,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\04_Stack_Calculator\04_Stack_Calculator\main.c(126,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\04_Stack_Calculator\04_Stack_Calculator\main.c(69): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
+  04_Stack_Calculator.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\04_Stack_Calculator\Debug\04_Stack_Calculator.exe

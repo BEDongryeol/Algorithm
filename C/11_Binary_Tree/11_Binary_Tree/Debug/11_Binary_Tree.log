@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(13,29): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(14,31): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(21,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(22,28): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(28,26): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(30,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(36,28): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\11_Binary_Tree\main.c(37,29): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  11_Binary_Tree.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\11_Binary_Tree\Debug\11_Binary_Tree.exe

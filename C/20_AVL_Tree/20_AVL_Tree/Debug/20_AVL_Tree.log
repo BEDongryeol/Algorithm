@@ -1,0 +1,22 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(23,49): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(23,78): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(28,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(29,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(36,30): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(34,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(44,30): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(42,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(51,39): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(50,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(58,41): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(57,1): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(65,36): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(73,37): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(92,47): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(92,54): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(96,49): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(96,56): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(108,27): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\20_AVL_Tree\main.c(117,26): warning C4133: '함수': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  20_AVL_Tree.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\20_AVL_Tree\Debug\20_AVL_Tree.exe

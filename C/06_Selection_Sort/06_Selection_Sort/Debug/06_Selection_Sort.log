@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\06_Selection_Sort\06_Selection_Sort\main.c(10,8): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\06_Selection_Sort\06_Selection_Sort\main.c(34,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\06_Selection_Sort\06_Selection_Sort\main.c(12): warning C4716: 'swap': 값을 반환해야 합니다.
+  06_Selection_Sort.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\06_Selection_Sort\Debug\06_Selection_Sort.exe

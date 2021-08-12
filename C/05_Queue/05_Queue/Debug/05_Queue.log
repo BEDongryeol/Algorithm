@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\05_Queue\05_Queue\main.c(26,27): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\05_Queue\05_Queue\main.c(35,14): warning C4098: 'pop': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\05_Queue\05_Queue\main.c(40,27): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\05_Queue\05_Queue\main.c(43,13): warning C4098: 'pop': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\ATIV\source\repos\Algorithm_DataStructure\05_Queue\05_Queue\main.c(51,18): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  05_Queue.vcxproj -> C:\Users\ATIV\source\repos\Algorithm_DataStructure\05_Queue\Debug\05_Queue.exe
